@@ -1,0 +1,8 @@
+.trending{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10%;
+    margin-top: -10%;
+    margin-bottom: -10%;
+}
